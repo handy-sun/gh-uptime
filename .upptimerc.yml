@@ -15,8 +15,8 @@ sites:
     url: https://qb.socool.ing/
   - name: emi
     url: https://emi.socool.ing/
-  - name: upku dashboard
-    url: https://upku.socool.ing/dashboard
+  - name: sst
+    url: https://sst.socool.ing/
   - name: Wikipedia
     url: https://en.wikipedia.org
   # - name: IPv6 test
