@@ -1,7 +1,7 @@
 url: https://mutag.$DOMAIN/
-status: down
-code: 404
-responseTime: 698
-lastUpdated: 2025-05-05T08:22:44.563Z
+status: up
+code: 200
+responseTime: 765
+lastUpdated: 2025-05-05T08:44:36.991Z
 startTime: 2025-04-02T09:43:08.204Z
 generator: Upptime <https://github.com/upptime/upptime>
