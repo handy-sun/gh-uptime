@@ -1,7 +1,7 @@
 url: https://als.$DOMAIN/
-status: down
-code: 404
-responseTime: 689
-lastUpdated: 2025-05-08T07:45:07.686Z
+status: up
+code: 200
+responseTime: 2629
+lastUpdated: 2025-05-08T07:53:52.521Z
 startTime: 2025-03-16T15:07:26.802Z
 generator: Upptime <https://github.com/upptime/upptime>
