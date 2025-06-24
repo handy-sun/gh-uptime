@@ -1,7 +1,7 @@
 url: https://hals.$DOMAIN/
-status: down
-code: 404
-responseTime: 7388
-lastUpdated: 2025-06-24T05:40:38.990Z
+status: up
+code: 200
+responseTime: 793
+lastUpdated: 2025-06-24T05:51:40.080Z
 startTime: 2025-03-16T15:07:22.869Z
 generator: Upptime <https://github.com/upptime/upptime>
