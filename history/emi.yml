@@ -1,7 +1,7 @@
 url: https://emi.$DOMAIN/
-status: up
-code: 200
-responseTime: 1166
-lastUpdated: 2025-06-29T23:00:54.476Z
+status: down
+code: 404
+responseTime: 694
+lastUpdated: 2025-06-30T08:53:55.256Z
 startTime: 2025-03-16T15:07:31.266Z
 generator: Upptime <https://github.com/upptime/upptime>
