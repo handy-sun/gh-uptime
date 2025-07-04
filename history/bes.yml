@@ -1,7 +1,7 @@
 url: https://bes.$DOMAIN/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-04T15:12:41.027Z
+status: up
+code: 200
+responseTime: 649
+lastUpdated: 2025-07-04T15:32:33.608Z
 startTime: 2025-04-02T09:42:53.875Z
 generator: Upptime <https://github.com/upptime/upptime>
