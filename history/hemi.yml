@@ -1,7 +1,7 @@
 url: https://hemi.$DOMAIN/
-status: down
-code: 404
-responseTime: 505
-lastUpdated: 2025-07-05T17:23:40.988Z
+status: up
+code: 200
+responseTime: 1141
+lastUpdated: 2025-07-05T17:37:53.084Z
 startTime: 2025-03-16T15:07:25.251Z
 generator: Upptime <https://github.com/upptime/upptime>
