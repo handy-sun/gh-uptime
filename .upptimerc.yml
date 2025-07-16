@@ -7,8 +7,6 @@ sites:
     url: https://$DOMAIN/
   - name: bes
     url: https://bes.$DOMAIN/
-  - name: sst
-    url: https://sst.$DOMAIN/
   - name: hals
     url: https://hals.$DOMAIN/
   - name: qbe
