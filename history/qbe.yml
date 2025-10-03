@@ -1,7 +1,7 @@
 url: https://qbe.$DOMAIN/
-status: up
-code: 200
-responseTime: 950
-lastUpdated: 2025-10-02T23:00:52.867Z
+status: down
+code: 404
+responseTime: 1763
+lastUpdated: 2025-10-03T01:16:40.282Z
 startTime: 2025-03-16T15:07:24.108Z
 generator: Upptime <https://github.com/upptime/upptime>
