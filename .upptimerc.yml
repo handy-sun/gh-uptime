@@ -5,26 +5,25 @@ repo: gh-uptime # The name of this repository
 sites:
   - name: root
     url: https://$DOMAIN/
+  - name: frpweb
+    url: https://frpweb.$DOMAIN/
+  - name: upku
+    url: https://upku.$DOMAIN/
+
   - name: bes
     url: https://bes.$DOMAIN/
+  - name: tea
+    url: https://tea.$DOMAIN/
   - name: hals
     url: https://hals.$DOMAIN/
   - name: qbe
     url: https://qbe.$DOMAIN/
   - name: hemi
     url: https://hemi.$DOMAIN/
-  - name: mutag
-    url: https://mutag.$DOMAIN/
   - name: syth
     url: https://syth.$DOMAIN/
-  - name: www
-    url: https://www.$DOMAIN/
-  - name: als
-    url: https://als.$DOMAIN/
-  - name: qb
-    url: https://qb.$DOMAIN/
-  - name: emi
-    url: https://emi.$DOMAIN/
+  # - name: mutag
+  #   url: https://mutag.$DOMAIN/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: vps-vmiss (tcp)
